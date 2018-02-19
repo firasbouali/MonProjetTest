@@ -1,4 +1,7 @@
 ici la ligne 1
 Encore une ligne, ligne 2
 Ici la ligne 3
-Ici une ligne ajoutée à la fin - à partir de la branche demo
+
+Ici une ligne ajoutée à la fin - à partir de la branche demo -- on la garde
+True modif on demo --on la garde
+
